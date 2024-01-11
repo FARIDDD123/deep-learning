@@ -23,3 +23,6 @@ Becoming proficient in deep learning involves extensive technical expertise. The
 7. Natural language processing
 8. Neural network architecture
 
+## Resources
+
+* image file https://mega.nz/folder/155jhCab#nbzOGOlVxWdFlStvzGGj_g
