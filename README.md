@@ -76,3 +76,4 @@ Becoming proficient in deep learning involves extensive technical expertise. The
 ## Resources
 
 * image file https://mega.nz/folder/155jhCab#nbzOGOlVxWdFlStvzGGj_g
+* helper function https://mega.nz/file/VtpDjRIY#3QLM-dKhrvdMXXIYDHJza9ujgwqt0FDXTtPggC5rayk
