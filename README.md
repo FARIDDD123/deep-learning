@@ -71,7 +71,7 @@ Becoming proficient in deep learning involves extensive technical expertise. The
 1. Tensorflow
 2. Pytorch
 3. OpenCv
-4. LLM
+4. Transformers
 
 ## Resources
 
